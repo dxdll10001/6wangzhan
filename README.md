@@ -2,7 +2,7 @@
 
 ![livechat1.jpg](livechat1.jpg)
 
-- [和我联系 Live Chat](https://app.chaport.com/widget/show.html?appid=61b5dc3d081e5a614003c571)
+- [和我联系 Live Chat](https://app.chaport.com/widget/show.html?appid=6454c8048322806be40d740e)
 - fs@vpvp.eu.org
 - [其他方式](./其他方式.md)
 
