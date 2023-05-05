@@ -6,12 +6,7 @@
 - fs@vpvp.eu.org
 - [其他方式](./其他方式.md)
 
-### 查看 View
 
-- [简历](./简历.md) Resume
-
-
-### 其他 Other
 
  
 
