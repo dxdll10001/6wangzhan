@@ -7,6 +7,10 @@
 - [其他方式](./其他方式.md)
 
 
+- 洞见 insight
+- 论文 dissertation&thesis
+- 方案 scheme
+- 参考和推荐文献 Reference and Recommended Literature
 
  
 
